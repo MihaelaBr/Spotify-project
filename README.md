@@ -1,14 +1,14 @@
 # Spotify EDA project
 ## Brief Overview
-This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created in Jupyter Notebooks using the data from my personal Spotify account.
+This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created using Python Jupyter Notebooks with the data from my personal Spotify account.
 
 ## Data and processing
-Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing and visualisation using pandas, matplotlib, numpy and seaborn Python Libraries.
+Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets, for example new column, type boolean, named 'Include Song' was added based on the time a song was played. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing and visualisation using pandas, matplotlib, numpy and seaborn Python Libraries.
 
 ## Results
-The Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to this github repository. It does not contain any PII.
+The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to this GitHub repository. It does not contain any PII.
 
-## Future ideas
+## Future project development
 Using the same data to create detailed and more creative visualisations using Tableau Public.
 
 ## Inspiration
