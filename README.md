@@ -1,4 +1,4 @@
-# Spotify-project
+# Spotify EDA project
 ## Brief Overview
 This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created in Jupyter Notebooks using the data from my personal Spotify account.
 
@@ -9,8 +9,9 @@ Data was provided by Spotify after an official request in April 2024. All initia
 The clean Jupyter Notebook and the used data without PII was added to this github repository.
 
 ## Future ideas
-Using the same data to create detailed visualisations using Tableau and posting it in Tableau Public.
+Using the same data to create detailed and more creative visualisations using Tableau Public.
 
 ## Inspiration
-The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data. I used the initial Jupyter Notebook from the link as an initial template to work with my own data but built on top of it in terms of visualisations features, metrics used and general analysis.
-Check out the workshop here: [YouTube WiDS Workshop](https://www.youtube.com/watch?v=2zaGRy54SV8&ab_channel=WomeninDataScienceWorldwide)
+The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data. I used the Jupyter Notebook from the link as an initial template to work with my own data but built on top of it in terms of visualisations features, metrics used and general analysis. I did not use the playlist analysis as my account had very few and outdated data in that section.
+
+Check out the inspiration workshop for steps on requesting your Spotify data and analysing it: [YouTube WiDS Workshop](https://www.youtube.com/watch?v=2zaGRy54SV8&ab_channel=WomeninDataScienceWorldwide)
