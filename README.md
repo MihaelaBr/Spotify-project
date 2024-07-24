@@ -8,7 +8,7 @@ Data was provided by Spotify after an official request in April 2024. All initia
 ## Results
 The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to this GitHub repository. It does not contain any PII.
 
-## Future project development
+## Next Steps
 Using the same data to create detailed and more creative visualisations using Tableau Public.
 
 ## Inspiration
